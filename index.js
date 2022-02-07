@@ -18,3 +18,19 @@ number; //=> 4
 ++number; //=> 5
 
 number; //=> 5
+
+function add(){
+
+}
+function subtract(){
+
+}
+function multiply(){
+
+}
+function divide(){
+
+}
+function add(a, b){
+
+}
